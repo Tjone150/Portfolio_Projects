@@ -34,3 +34,33 @@ The dashboard was created in the order of importance from the KPIs. This made it
 
 Prerequisites:
 To use the dashboard, you need to have Microsoft Excel installed on your computer.
+
+Project 3: Sales Data Analysis
+
+Brief Summary:
+This project uses sales data to answer specific questions related to sales and market analysis. The project was implemented using Microsoft SQL Server Management Studio, Excel, and PowerBI. The main objective of the project is to analyze sales data and provide insights to help the company make informed decisions about their sales strategies.
+
+Detailed Explanation:
+The project provides insights on sales data, which can help the company make informed decisions about their sales strategies. The results can be used to identify the best month for sales, the city with the highest number of sales, the optimal time for displaying advertisements, the products that are often sold together, and the best-selling product. The project also calculates the probability of customers purchasing specific products, such as USB-C Charging Cable, iPhone, Google Phone, and Wired Headphones.
+
+
+Prerequisites:
+To implement the project, the following tools were used:
+Microsoft SQL Server Management Studio: To extract and transform the data from the source
+Excel: To clean and pre-process the data
+PowerBI: To visualize and analyze the data
+
+
+Usage:
+To use the project, follow these steps:
+Extract the data from the source using Microsoft SQL Server Management Studio
+Clean and pre-process the data using Excel
+Load the data into PowerBI and create visualizations
+Analyze the data and draw conclusions based on the insights obtained
+Use the results to make informed decisions about sales strategies and marketing campaigns
+
+Data Source:
+The data used for the project was obtained from https://www.kaggle.com/datasets/knightbearr/sales-product-data. It contains information about the product, quantity ordered, price, and sales details, such as the order date, month, order time, purchase address, city, state, and zip code.
+
+Conclusion:
+The project provides valuable insights on sales data, which can help the company make informed decisions about their sales strategies. The results can be used to optimize sales campaigns, identify the best-selling products, and improve the customer experience. The project also calculates the probability of customers purchasing specific products, which can help the company anticipate demand and plan their inventory accordingly.
